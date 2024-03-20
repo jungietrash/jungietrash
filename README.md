@@ -13,14 +13,15 @@
 - 🔍 I’m looking for connections in <strong>Web Development and Cyber Security</strong> Industry.
 - 💬 A full stack software developer experienced in using Microsoft technologies such as C#, .NET (Framework, Core, Blazor), and Oracle PL/SQL/MySQL. Also experienced in Entity Framework, Dapper, LINQ, Firebase, HTML, CSS, JavaScript, and 3rd party UI components such as MudBlazor UI.</p>
 
-Worked with Agile and Scrum programming methodologies and have been involved in maintaining versions of source code using Microsoft's Visual Studio TFS and Git for Web Development.
+- 💬 Worked with Agile and Scrum programming methodologies and have been involved in maintaining versions of source code using Microsoft's Visual Studio TFS and Git for Web Development.
 
-Anyway, if you'd like to work with me, or you'd like me to help you in any way, please drop me a message here or via e-mail at <a href="mailto:gerezjungie393@gmail.com">gerezjungie393@gmail.com</a>. My DMs are open even without connecting with me.
+- 💬 Anyway, if you'd like to work with me, or you'd like me to help you in any way, please drop me a message here or via e-mail at <a href="mailto:gerezjungie393@gmail.com">gerezjungie393@gmail.com</a>. My DMs are open even without connecting with me.
 
 ------------------------------------------- 
 
 ### Tools I work upon:
 
+<div style="display: flex; flex-wrap: wrap;">
 <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/CSS3-%2314354C.svg?style=for-the-badge&logo=css3&logoColor=white"> 
 <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"> 
@@ -36,7 +37,7 @@ Anyway, if you'd like to work with me, or you'd like me to help you in any way, 
 <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black"> 
 <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"> 
 <img src="https://img.shields.io/badge/Microsoft%20TFS-0078D7.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
-
+</div>
 
 ------------------------------------------- 
 
